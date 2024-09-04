@@ -28,7 +28,8 @@
 ##klik yes
 ![10](https://github.com/user-attachments/assets/ce561bf3-f08a-4ae9-93c2-319b0d2db4d1)
 
-##
+##jika sudah semua makan install linux selesai masukkan username dan password seusai yang telah dibuat
+![11](https://github.com/user-attachments/assets/e5dd1bb7-d8ac-46ee-98ab-ac465557f876)
 
 ##
 
